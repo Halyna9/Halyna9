@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Halyna9/Halyna9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Galina Rudnitca 👋
+# Hello, I'm Galina 👋
 
 😊Welcome to my coding corner on GitHub!😊
 
